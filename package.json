@@ -2,7 +2,7 @@
   "name": "errorhide",
 	"displayName": "ErrorHide",
 	"description": "Hides error popups on successful compile.",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"main": "./out/extension.js",
 	"repository": "https://github.com/jackbrower/VSCode-ErrorHide",
 	"engines": {
