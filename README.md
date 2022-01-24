@@ -1,4 +1,4 @@
-
+<center><img src=./media/errorhide.gif /></center>
 
 # ErrorHide
 A small VSCode extension that automatically clears notifications on a successful build.
