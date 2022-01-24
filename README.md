@@ -7,8 +7,9 @@ A small VSCode extension that automatically clears notifications on a successful
 * LaTeX
 
 ## Install
-1. Download this repo via .zip or cloning.
-2. Open VSCode, extensions, click the ellipsis on the top right of the menu, select "Install from VSIX", and click on errorhide-x.x.x.vsix
+1. Navigate to the releases tab
+2. Download `errorhide-x.x.x.vsix`
+3. Open VSCode, extensions, click the ellipsis on the top right of the menu, select "Install from VSIX", and click on errorhide-x.x.x.vsix
 
 You can also compile fom source. Dependencies: `node.js/npm, vsce`
 1. Navigate into the repo from the command line.
